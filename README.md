@@ -9,12 +9,16 @@
 
 
   - 🔭 I’m currently working on:
-    - on [Konstellation](https://github.com/konstellation-io) for profit.
+    - on [ThoughtWorks](https://github.com/thoughtworks) for profit.
     - and [hostctl](https://github.com/guumaster/hostctl) as a side-project.
 
+
+<!--
   - 🌱 I’m currently learning:
     - [Writing An Interpreter In Go](https://interpreterbook.com/)
     
+-->
+
   - ⚡ Fun facts:
     - I have an [Uruk Hai friend](https://www.flickr.com/photos/gustavo/968050027/in/album-72157601132002707/)
     - I know how to make [my own chainmail](https://www.flickr.com/photos/gustavo/8023265/in/album-177996/)
