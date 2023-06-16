@@ -9,17 +9,11 @@
 
 
   - 🔭 I’m currently working on:
-    - on [ThoughtWorks](https://github.com/thoughtworks) for profit.
-    - and [hostctl](https://github.com/guumaster/hostctl) as a side-project.
+    - [hostctl](https://github.com/guumaster/hostctl) as a side-project.
 
-
-<!--
-  - 🌱 I’m currently learning:
-    - [Writing An Interpreter In Go](https://interpreterbook.com/)
-    
--->
 
   - ⚡ Fun facts:
+    - I walked 1000km of Camino de Santiago through Spain to reach (Santiago de Compostela and Finisterre)[https://www.flickr.com/photos/gustavo/250558779/in/album-72157594297433127/]
     - I have an [Uruk Hai friend](https://www.flickr.com/photos/gustavo/968050027/in/album-72157601132002707/)
     - I know how to make [my own chainmail](https://www.flickr.com/photos/gustavo/8023265/in/album-177996/)
  
